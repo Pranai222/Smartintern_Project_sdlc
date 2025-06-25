@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+requests
+scikit-learn
+matplotlib
+pandas
+pinecone-client
+sentence-transformers
+reportlab
